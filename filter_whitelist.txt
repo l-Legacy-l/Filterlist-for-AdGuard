@@ -120,6 +120,7 @@
 @@||redditstatic.com^$important
 @@||river.data.ea.com^$important
 @@||secureir.ebaystatic.com^$important
+@@||rtbf.be^$important
 @@||self.events.data.microsoft.com^$important
 @@||settings-win.data.microsoft.com^$important
 @@||share.dmca.gripe^$important
