@@ -93,6 +93,7 @@
 @@||rarbg.to^$important
 @@||raw.githubusercontent.com^$important
 @@||redditstatic.com^$important
+@@||rtbf.be^$important
 @@||self.events.data.microsoft.com^$important
 @@||settings-win.data.microsoft.com^$important
 @@||share.dmca.gripe^$important
