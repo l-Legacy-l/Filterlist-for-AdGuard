@@ -84,6 +84,7 @@
 @@||mboxedge36.tt.omtrdc.net^$important
 @@||media.steampowered.com^$important
 @@||media4.steampowered.com^$important
+@@||messenger.com^$important
 @@||microsoftmscompoc.tt.omtrdc.net^$important
 @@||msedge.api.cdp.microsoft.com^$important
 @@||nav.smartscreen.microsoft.com^$important
