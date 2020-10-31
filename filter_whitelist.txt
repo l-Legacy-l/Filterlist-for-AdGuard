@@ -7,6 +7,7 @@
 @@||amazon.it^$important
 @@||amazon.co.uk^$important
 @@||amazon.es^$important
+@@||aliexpress.com^$important
 @@||*.walmartimages.com^$important
 @@||0xxx.ws^$important
 @@||1fichier.com^$important
