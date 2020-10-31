@@ -1,5 +1,12 @@
 @@||*.phncdn.com^$important
 @@||*.sca1b.amazontrust.com^$important
+@@||amazon.com^$important
+@@||amazon.fr^$important
+@@||amazon.nl^$important
+@@||amazon.de^$important
+@@||amazon.it^$important
+@@||amazon.co.uk^$important
+@@||amazon.es^$important
 @@||*.walmartimages.com^$important
 @@||1fichier.com^$important
 @@||22pixx.xyz^$important
