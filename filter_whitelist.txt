@@ -8,6 +8,7 @@
 @@||amazon.co.uk^$important
 @@||amazon.es^$important
 @@||aliexpress.com^$important
+@@||astatic.ccmbg.com^$important
 @@||*.walmartimages.com^$important
 @@||1fichier.com^$important
 @@||22pixx.xyz^$important
