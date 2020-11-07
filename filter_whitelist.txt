@@ -58,6 +58,8 @@
 @@||ebay.com^$important
 @@||ebay.de^$important
 @@||edge.microsoft.com^$important
+@@||edge.com^$important
+@@||edge-chat.facebook.com^$important
 @@||elb-ore-amz.nimbus.bitdefender.net^$important
 @@||eu.static.mega.co.nz^$important
 @@||f-secure.com^$important
