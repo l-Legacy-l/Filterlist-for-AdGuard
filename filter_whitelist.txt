@@ -1,5 +1,6 @@
 @@||*.phncdn.com^$important
 @@||*.sca1b.amazontrust.com^$important
+@@||*.issou.tech^$important
 @@||amazon.com^$important
 @@||amazon.fr^$important
 @@||amazon.nl^$important
