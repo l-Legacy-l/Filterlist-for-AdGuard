@@ -47,7 +47,8 @@
 @@||dl.delivery.mp.microsoft.com^$important
 @@||download.sp.f-secure.com^$important
 @@||download.windowsupdate.com^$important
-@@||edge.microsoft.com^$important
+@@||edge.com^$important
+@@||edge-chat.facebook.com^$important
 @@||elb-ore-amz.nimbus.bitdefender.net^$important
 @@||eu.static.mega.co.nz^$important
 @@||f-secure.com^$important
