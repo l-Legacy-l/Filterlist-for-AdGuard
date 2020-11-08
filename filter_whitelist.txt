@@ -55,9 +55,15 @@
 @@||dl.delivery.mp.microsoft.com^$important
 @@||download.sp.f-secure.com^$important
 @@||download.windowsupdate.com^$important
+<<<<<<< HEAD
 @@||ebay.com^$important
 @@||ebay.de^$important
 @@||edge.microsoft.com^$important
+=======
+@@||*.ebay.com^$important
+@@||*.ebay.fr^$important
+@@||*.ebay.be^$important
+>>>>>>> 48900d9... adds ebay
 @@||edge.com^$important
 @@||edge-chat.facebook.com^$important
 @@||elb-ore-amz.nimbus.bitdefender.net^$important
