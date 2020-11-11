@@ -31,6 +31,7 @@
 @@||blzddist1-a.akamaihd.net^$important
 @@||bnetcmsus-a.akamaihd.net^$important
 @@||bnetus-a.akamaihd.net^$important
+@@||cdn.idealo.com^$important
 @@||cdn.cloudflare.steamstatic.com^$important
 @@||cdn.mwbsys.com^$important
 @@||cdn.sstatic.net^$important
@@ -58,6 +59,7 @@
 @@||f-secure.com^$important
 @@||fonts.gstatic.com^$important
 @@||free.hitnews.com^$important
+@@||gearbest.com^$important
 @@||g.static.mega.co.nz^$important
 @@||gfwsl.geforce.com^$important
 @@||github.com^$important
