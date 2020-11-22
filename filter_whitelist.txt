@@ -162,6 +162,7 @@
 @@||static.wikia.nocookie.net^$important
 @@||static.wixstatic.com^$important
 @@||static.zdassets.com^$important
+@@||static.xx.fbcdn.net^$important
 @@||static2.avg.com^$important
 @@||staticcdn.duckduckgo.com^$important
 @@||statics-*.onestore.ms^$important
