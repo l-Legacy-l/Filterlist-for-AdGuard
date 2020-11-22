@@ -1,10 +1,10 @@
-# Filterlist for AdGuard 2.3
+# Filterlist for AdGuard 2.4
 
 💚 This repo is actively maintained
 
 ![Logo](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Screenshots/Logo_AG.png)
 
-An aggressive filter-list that consolidates over 90 lists for use in AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
+An aggressive filter-list that consolidates over 110 lists for use in AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
 
 * Includes the official **AdGuardSDNSFilter**
 * The final blocklist is cleaned, sorted and then duplicates have been removed
@@ -16,27 +16,20 @@ It blocks:
 * scam, spam, suspicious, and typosquatting websites
 * data miners, invasive telemetry, and phishing websites
 
-_Please Note: The list is very aggressive so please ensure that you add your own "Custom filtering rules" for domains you want to allow.
-e.g: @@||nexusmods.com^$important_
+> VITAL: The list is very aggressive so please ensure that you add your own "Custom filtering rules" for domains you want to allow.
+e.g: @@||nexusmods.com^$important
 
-As of version 2.3 the list is more cleaned up, optimized and better than ever.
+As of version 2.4 the list is more cleaned up, optimized and better than ever. It includes over 110 lists.
 
 ## News
 
-Version 2.4 is in development.
-* Will add new lists
-* Will be more streamlined
-* Should release around the end of November
+Version 2.4 is released.
 
-Version 2.3 is out.
-* Added a few new lists
-* Additional cleanup done
-
-_The PowerShell generator script now uses a maximum of 5GB of RAM for a duration of 27 minutes (thanks to https://github.com/tamada/uniq2)_
+_The PowerShell generator script now uses a maximum of 5GB of RAM for a duration of 40 minutes (thanks to https://github.com/tamada/uniq2)_
 
 ## Usage 📐
 
-Check that you are using __AdGuard Home v0.104.0__ or later (hotfixes vital functionality).
+Check that you are using __AdGuard Home v0.104.3__ or later (hotfixes vital functionality).
 
 Once you have __AdGuard Home__ ready and are logged in, use its main menu to add one __blocklist__ and one __allowlist__.
 
